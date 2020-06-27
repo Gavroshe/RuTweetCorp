@@ -1,0 +1,3 @@
+RAM: 4 Gb
+CPU: 2 x 32-bit, 2.8 GHz
+Disk Space: 1 Gb
